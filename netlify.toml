@@ -1,0 +1,4 @@
+[build]
+  base = "Social-Media-App"
+  command = "CI= npm run build"
+  publish = "build"
