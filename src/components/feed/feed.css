@@ -1,0 +1,14 @@
+.feed {
+    flex: 5.5;
+}
+
+.feedWrapper {
+    padding: 20px;
+}
+
+.noPosts {
+    font-size: 55px;
+    color: rgb(216, 216, 216);
+    cursor: default;
+    margin-top: 710px;
+}
